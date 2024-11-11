@@ -1,2 +1,2 @@
 # Digital-Clock
- Simple Digital Clock using HTML and Javascript Date Function
+ Simple Digital Clock using HTML and Javascript using Date Function
